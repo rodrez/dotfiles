@@ -1,4 +1,4 @@
-alias config='/usr/bin/git --git-dir=/home/sam/.dotfiles/ --work-tree=/home/sam'
+alias config="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 # Enable the subsequent settings only in interactive sessions
 case $- in
   *i*) ;;
