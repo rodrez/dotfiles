@@ -1,0 +1,10 @@
+# You can also replace your username with a neat symbol like   or disable this
+# and use the os module below
+[username]
+show_always = true
+style_user = "fg:#51f4fc"
+format = '[󰣇 - ](fg:#51f5fc)[$user ]($style)'
+disabled = false
+
+[character]
+success_symbol = "[](bold green)"
